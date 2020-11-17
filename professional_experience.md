@@ -2,7 +2,7 @@
 
 * **Postdoctoral researcher**, Institute of Population Genetics, Vetmeduni Vienna, Austria <br/>
 Jul 2017 - Present <br/>
-**Advisors**: Carolin Kosiol and Gergely Szöllösi and Asger Holbolt <br/>
+**Advisors**: Carolin Kosiol and Gergely Szöllősi and Asger Holbolt <br/>
 **Project**: Genome-wide molecular dating
 
 * **Bioinformatician**, CIIMAR, University of Porto, Portugal <br/>
