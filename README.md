@@ -1,4 +1,4 @@
-# MIC-Phy 2021 web page
+# My personal website
 
 Credits:
 * template based on [minimal Jekyll theme.](https://github.com/pages-themes/minimal)

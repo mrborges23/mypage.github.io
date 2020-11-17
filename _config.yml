@@ -1,21 +1,15 @@
 theme: jekyll-theme-minimal
-title: MIC-Phy 2021 
-description: The virtual MIC-Phy meeting will be happening here! 
+title: Rui Borges 
+description: Hello and welcome to my website.
 show_downloads: false
 navigation:
   - title: Home
     url: /
-  - title: Program
-    url: program
-  - title: Workshop
-    url: workshop
-  - title: Registration
-    url: registration
-  - title: Scientific committee
-    url: scientific_committee
-  - title: Organizing committee
-    url: organizers
-  - title: Contacts
-    url: contacts
-  - title: Sponsors
-    url: funding
+  - title: Education
+    url: education
+  - title: Professional experience
+    url: professional_experience
+  - title: Publications
+    url: publications
+  - title: Software
+    url: software
