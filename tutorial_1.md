@@ -15,6 +15,7 @@ We will use the [&#8599;IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/), a
 
 5. Once the runs are finished, look for the `Log-likelihood of the tree:` and `Number of free parameters`. Save those values for each model. We will be testing six models, so by the end of the exercise, you should have six log-likelihoods (with the corresponding number of parameters).
 
+```
 | Model | log-likelihood | NP  |
 | ----- | -------------- | --- |
 | JC69  |                |     |
@@ -23,6 +24,7 @@ We will use the [&#8599;IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/), a
 | TN93  |                |     |
 | HKY85 |                |     |
 | GTR   |                |     |
+```
 
 6. Perform a hierarchical likelihood ratio test and determine the best fitting model for these sequences.
 
