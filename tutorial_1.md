@@ -9,5 +9,14 @@ We will use the IQ-TREE web server, and we will have to run it several times in 
 3. In `Substitution model options` select the model of evolution that you wish to test. We will be testing the JC, K2P, F81, TN93, HKY85, and GTR models. Notice that for the models F81, TN93, HKY85, and GTR, the `State frequency` has to be set to ML-optimized.
 4. Recheck all your options and press `Submit job`. You will be automatically sent to the `Analysis results` page. You might need to wait a bit for the final results. When finished, your status bar should read `Success`. If you get the message `ERROR` please make sure you followed the previous steps correctly.
 5. Once the runs are finished, look for the `Log-likelihood of the tree:` and `Number of free parameters`. Save those values for each model. We will be testing six models, so by the end of the exercise, you should have six log-likelihoods (with the corresponding number of parameters).
+|Model|log-likelihood|NP|
+|--|--|--|
+|JC69|||
+|K2P|||
+|F81|||
+|TN93|||
+|HKY85|||
+|GTR|||
+
 6. Perform a hierarchical likelihood ratio test and determine the best fitting model for these sequences.
 7. What is the best fitting model telling us about the way the primate mitochondrial sequences evolve? Are the base frequencies equal? Is there a transition/transversion bias? Are all the transition rates equal?
