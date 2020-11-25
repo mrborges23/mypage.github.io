@@ -11,5 +11,7 @@ navigation:
     url: professional_experience
   - title: Publications
     url: publications
+  - title: Teaching
+    url: teaching
   - title: Software
     url: software
