@@ -3,7 +3,7 @@
 
 In this tutorial, we will determine the best fitting model of a set of mitochondrial sequences taken from Brown, Prager, Wang, and Wilson (1982). The study is entitled *Mitochondrial DNA sequences of primates: tempo and mode of evolution* and was published in the *Journal of Molecular Evolution* 18 (4): 225-239. 
 
-[&#8600;brown.fas](/assets/lectures/brown.fas)
+Sequence alignment: [&#8600;brown.fas](/assets/lectures/brown.fas)
 
 We will use the [&#8599;IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/), and we will have to run it several times in order to obtain the log-likelihood for the tested models of evolution. We will be running the primate mitochondrial sequences with the JC, K2P, F81, TN93, HKY85, and GTR models. 
 
