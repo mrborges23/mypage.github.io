@@ -6,4 +6,4 @@
 
 ### Tutorials
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
-[&#8595;brown.fas](/assets/lectures/brown.fas)
+[&#8600;brown.fas](/assets/lectures/brown.fas)
