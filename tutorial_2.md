@@ -5,9 +5,9 @@ In this tutorial, we will perform phylogenetic analysis with the [Metzker et al.
 
 In this exercise, we want to determine if there is evidence that the victim (whose sequences all begin with a V) was directly infected by blood taken from the patient (whose sequences all begin with a P). Therefore, the phylogenetic problem is to establish whether the virus samples in the victim and the patient were closely related. HIV-infected individuals from the local metropolitan area (tagged as LA) were also included as controls. Two more divergent reference sequences were also added: `M62320_HIVU455` and `K03454_HIVELI`. Notice that the sequences used in this tutorial are only a small subset (30 sequences) of the evidence they considered when trying to answer this question.
 
-Sequence alignment: [&#8600;brown.fas](/assets/lectures/HIV_env_gp120.fst)
+Sequence alignment: [&#8600;HIV_env_gp120.fas](/assets/lectures/HIV_env_gp120.fas)
 
-We will be performing phylogenetic inference using the [NGPhylogeny webserver](https://ngphylogeny.fr/), which is dedicated to reconstructing and analyzing phylogenetic relationships between molecular sequences. It included the software used for maximum likelihood (PhyML) and Bayesian (MrBayes) phylogenetic inference.
+We will be performing phylogenetic inference using the [NGPhylogeny webserver](https://ngphylogeny.fr/), which is dedicated to reconstructing and analyzing phylogenetic relationships between molecular sequences. It included the software used for maximum likelihood (**PhyML**) and Bayesian (**MrBayes**) phylogenetic inference.
 
 References for these methods:
 * Guindon, Dufayard, Lefort, Anisimova, Hordijk, and Gascuel *New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0* Systematic Biology, 59:307–321
@@ -24,12 +24,13 @@ References for these methods:
 
 4. Regarding the `Tree topology search`, you can leave the default option: i.e., SPR (Subtree Pruning and Regraphing). Like the NNI (Nearest Neighbor Interchange), the SPR is another tree rearrangement method.
 
-4. In the `Statistical test for branch support` choose the `Bootstrap` option and set it to 10 bootstraps. Typically, one should use around 100 bootstraps, but we will use a smaller number to avoid taking too much of the webserver's load. There are alternative methods of branch support that are faster than bootstrapping. SH-like is one of such methods. Strongly supported clades show SH-like values closer to 1.0. 
+5. In the `Statistical test for branch support` choose the `Bootstrap` option and set it to 10 bootstraps. Typically, one should use around 100 bootstraps, but we will use a smaller number to avoid taking too much of the webserver's load. There are alternative methods of branch support that are faster than bootstrapping. SH-like is one of such methods. Strongly supported clades show SH-like values closer to 1.0. 
 
-5. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded. 
+6. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded. 
 
-6. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the fine to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, the bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead. 
+7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead. 
 
+8. According to the maximum likelihood phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values.
 
 
 **Bayesian tree**
@@ -42,7 +43,8 @@ References for these methods:
 
 4. Set the outgroup to one of the sequences: `M62320_HIVU455` and `K03454_HIVELI`.
 
-5. Regarding the model of evolution, we will use the GTR + Gamma substituion model. The gamma parameter can be set in the `Choose rates` option.
-
+5. Regarding the model of evolution, we will use the GTR + Gamma substituion model. The gamma model can be set in the `Choose rates` option.
 
 6. 
+
+7. According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. A more general question: are the Bayesian and maximum likelihood trees considerably different in terms of topology and branch support values?
