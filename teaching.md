@@ -6,3 +6,6 @@
 
 ### Tutorials
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
+* [Tutorial 2](tutorial_2.md) Maximum likelihood and Bayesian phylogenetic inference <br/>
+
+
