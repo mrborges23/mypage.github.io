@@ -19,4 +19,4 @@ We will use the [&#8599;IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/), a
 
 6. Perform a hierarchical likelihood ratio test and determine the best fitting model for these sequences. First, calculate the likelihood ratio test statistic for each mode comparison. This is twice the difference in log-likelihoods, i.e., LRT=2(lnL1-lnL0). Then, test the the models using the [&#8599;chi-square](https://people.smp.uq.edu.au/YoniNazarathy/stat_models_B_course_spring_07/distributions/chisqtab.pdf) distribution with degrees of fredoom matching the difference in the number of parameters between the two models. 
 
-7. What is the best fitting model telling us about the way the primate mitochondrial sequences evolve? Are the base frequencies equal? Is there a transition/transversion bias? Are all the transition rates equal?
+What is the best fitting model telling us about the way the primate mitochondrial sequences evolve? Are the base frequencies equal? Is there a transition/transversion bias? Are all the transition rates equal?

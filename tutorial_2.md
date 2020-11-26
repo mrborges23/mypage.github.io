@@ -30,7 +30,7 @@ References for these methods:
 
 7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead. 
 
-8. According to the maximum likelihood phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values.
+According to the maximum likelihood phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values.
 
 
 **Bayesian tree**
@@ -47,4 +47,5 @@ References for these methods:
 
 6. 
 
-7. According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. A more general question: are the Bayesian and maximum likelihood trees considerably different in terms of topology and branch support values?
+
+According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. A more general question: are the Bayesian and maximum likelihood trees considerably different in terms of topology and branch support values?
