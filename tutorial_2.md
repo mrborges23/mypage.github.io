@@ -28,7 +28,7 @@ References for these methods:
 
 6. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded.
 
-7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead.
+7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the Newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead.
 
 According to the maximum likelihood phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values.
 
@@ -39,13 +39,20 @@ According to the maximum likelihood phylogeny, do we have evidence that the gast
 
 2. Upload the sequence alignment in `input file`.
 
-3. As we perform Bayesian inference, a whole set of parameters regarding the MCMC step have to be predefined. Please set the MCMC scheme to run for 50 000 generations and a single chain. In proper phylogenetic analyses, one has to run several chains, so the posterior space is properly explored. Here, we set the MCMC to one chain is to avoid taking too much of the webserver’s load. Define the sample and print frequency to 100, .
+3. As we perform Bayesian inference, we will be using the MCMC algorithm. Please set the MCMC scheme to run for 50 000 generations using a single chain. In proper phylogenetic analyses, one has to run several chains, so the posterior space is properly explored. Here, we set the MCMC to one chain is to avoid taking too much of the webserver's load. 
 
 4. Set the outgroup to one of the sequences: `M62320_HIVU455` or `K03454_HIVELI`.
 
 5. Regarding the model of evolution, we will use the GTR substitution model with site heterogeneity. The gamma model can be set in the `Choose rates` option.
 
-6. 
+6. Within the Bayesian inference, the samples of the posterior are summarized. MrBayes included several parameters that do that for us. The `sample frequency` is the frequency with which the MCMC samples will be written to file: set it 50. How many samples will we have at the end of the MCMC run? The `burn-in fraction` corresponds to the fraction of MCMC samples that will be discarded from summarization: set it to 0.25. Regarding the summarize parameters, leave them all `true`.
 
+7. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded.
 
-According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. A more general question: are the Bayesian and maximum likelihood trees considerably different in terms of topology and branch support values?
+8. Once the analyses are finished, open the `Mr Bayes Consensus tree` using the `iTol` viewer. You can alternatively download the Newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead.
+
+9. Download the file `Mr Bayes All Runs Outputs`, where you can find the `align.nx.p` and the `align.nx.t` outputs. These include the MCMC sampled parameters (exchangeabilities and base composition) and trees, respectively. Open the first file in a spreadsheet and analyze MCMC convergence for some of the parameters. Was 0.25 a good choice for a burn-in fraction?
+
+According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. 
+
+A more general question: are the Bayesian and maximum likelihood trees considerably different in terms of topology and branch support values?
