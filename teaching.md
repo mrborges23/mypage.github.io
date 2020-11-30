@@ -3,7 +3,7 @@
 ### Lectures
 * [Lecture 1](/assets/lectures/Lecture_1.pdf) Genetic distances and nucleotide substitution models
 * [Lecture 2](/assets/lectures/Lecture_2.pdf) Selecting models of nucleotide sequence evolution
-* Lecture 3 Phylogenetic inference using maximum likelihood
+* [Lecture 3](/assets/lectures/Lecture_3.pdf)  Phylogenetic inference using maximum likelihood
 * Lecture 4 Bayesian phylogenetic inference
 * Lecture 5 Molecular clock and estimation of species divergence times
 * Lecture 6 Natural selection and adaptation of molecular sequences

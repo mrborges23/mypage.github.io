@@ -1,5 +1,5 @@
-## Tutorial 2
-**Maximum likelihood and Bayesian phylogenetic inference**
+## Tutorial 4
+**Detecting selection in molecular sequences**
 
 In this tutorial, we will investigate the mammalian C7 protein, which is part of the complement immunity pathway, for signatures of positive selection. The data was taken from Kosiol, Vinar, da Fonseca, Hubisz, Bustamante, Nielsen and Siepel (2008) entitled *Patterns of positive selection in six mammalian genomes*. To place the problem in context, you will test the mamalian C7 protein for positive selection by comparing the nearly neutral model M1a against the selection model M2a.
 

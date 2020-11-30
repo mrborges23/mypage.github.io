@@ -20,15 +20,15 @@ References for these methods:
 
 2. Upload the sequence alignment in `alignment file` and set `Data type` to `Nucleic acids`.
 
-3. We want to set a GTR substitution model with site heterogeneity. Make the appropriate options in the `Evolutionary model` section. Set up the gamma model using the options `Number of categories for the discrete gamma model` and `Parameter of the gamma model`. 
+3. We want to set a GTR substitution model with site heterogeneity. Make the appropriate options in the `Evolutionary model` section. Set up the gamma model using the options `Number of categories for the discrete gamma model` and `Parameter of the gamma model`.
 
 4. Regarding the `Tree topology search`, you can leave the default option: i.e., SPR (Subtree Pruning and Regraphing). Like the NNI (Nearest Neighbor Interchange), the SPR is another tree rearrangement method.
 
-5. In the `Statistical test for branch support` choose the `Bootstrap` option and set it to 10 bootstraps. Typically, one should use around 100 bootstraps, but we will use a smaller number to avoid taking too much of the webserver's load. There are alternative methods of branch support that are faster than bootstrapping. SH-like is one of such methods. Strongly supported clades show SH-like values closer to 1.0. 
+5. In the `Statistical test for branch support` choose the `Bootstrap` option and set it to 10 bootstraps. Typically, one should use around 100 bootstraps, but we will use a smaller number to avoid taking too much of the webserver's load. There are alternative methods of branch support that are faster than bootstrapping. SH-like is one of such methods. Strongly supported clades show SH-like values closer to 1.0.
 
-6. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded. 
+6. Press `Submit`. You will be redirected to a webpage where you can see the progression of the run. Wait until all the steps are concluded.
 
-7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead. 
+7. Once the analyses are finished, open the `PhyML Newick tree` using the `iTol` viewer. You can alternatively download the newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead.
 
 According to the maximum likelihood phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values.
 
@@ -39,11 +39,11 @@ According to the maximum likelihood phylogeny, do we have evidence that the gast
 
 2. Upload the sequence alignment in `input file`.
 
-3. As we are performing Bayesian inference, a whole set of paramters regarding the MCMC step have to be defined. Please set the MCMC shceme to run for 50 000 generations, a single chain. Set a sample and print frequency to 100, which will produce output files with 
+3. As we perform Bayesian inference, a whole set of parameters regarding the MCMC step have to be predefined. Please set the MCMC scheme to run for 50 000 generations and a single chain. In proper phylogenetic analyses, one has to run several chains, so the posterior space is properly explored. Here, we set the MCMC to one chain is to avoid taking too much of the webserver’s load. Define the sample and print frequency to 100, .
 
-4. Set the outgroup to one of the sequences: `M62320_HIVU455` and `K03454_HIVELI`.
+4. Set the outgroup to one of the sequences: `M62320_HIVU455` or `K03454_HIVELI`.
 
-5. Regarding the model of evolution, we will use the GTR + Gamma substituion model. The gamma model can be set in the `Choose rates` option.
+5. Regarding the model of evolution, we will use the GTR substitution model with site heterogeneity. The gamma model can be set in the `Choose rates` option.
 
 6. 
 
