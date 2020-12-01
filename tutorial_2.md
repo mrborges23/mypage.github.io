@@ -39,7 +39,7 @@ According to the maximum likelihood phylogeny, do we have evidence that the gast
 
 2. Upload the sequence alignment in `input file`.
 
-3. As we perform Bayesian inference, we will be using the MCMC algorithm. Please set the MCMC scheme to run for 50 000 generations using a single chain. In proper phylogenetic analyses, one has to run several chains, so the posterior space is properly explored. Here, we set the MCMC to one chain is to avoid taking too much of the webserver's load. 
+3. As we perform Bayesian inference, we will be using the MCMC algorithm. Please set the MCMC to run for 50 000 generations using a single chain. In proper phylogenetic analyses, one has to run several chains, so the posterior space is properly explored. Here, we set the MCMC to one chain is to avoid taking too much of the webserver's load. 
 
 4. Set the outgroup to one of the sequences: `M62320_HIVU455` or `K03454_HIVELI`.
 
@@ -51,7 +51,7 @@ According to the maximum likelihood phylogeny, do we have evidence that the gast
 
 8. Once the analyses are finished, open the `Mr Bayes Consensus tree` using the `iTol` viewer. You can alternatively download the Newick file to your computer and open it in `Seaview`. In `iTol` go to the `Advanced` bar and display the bootstraps. By default, bootstraps are represented graphically, but we want to see the actual bootstraps values. For that, choose the option `text` instead.
 
-9. Download the file `Mr Bayes All Runs Outputs`, where you can find the `align.nx.p` and the `align.nx.t` outputs. These include the MCMC sampled parameters (exchangeabilities and base composition) and trees, respectively. Open the first file in a spreadsheet and analyze MCMC convergence for some of the parameters. Was 0.25 a good choice for a burn-in fraction?
+9. Download the file `Mr Bayes All Runs Outputs`, where you can find the `align.nx.p` and the `align.nx.t` outputs. These include the MCMC sampled parameters (exchangeabilities and base composition) and trees, respectively. Open the first file in a spreadsheet and analyze the convergence of the MCMC chains for some of the parameters via scatter plots. Was 0.25 a good choice for a burn-in fraction?
 
 According to the Bayesian phylogeny, do we have evidence that the gastroenterologist deliberately infected the victim with HIV-infected blood from one of their patients? Support your conclusions using the obtained branch support values. 
 
