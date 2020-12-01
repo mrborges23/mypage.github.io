@@ -11,10 +11,13 @@ My mains research interests are:
 
 Contact me:
 
-| | |
-|---|---|
-|**Email** | ruiborges23(at)gmail.com|
-|**Address** | Institute of Population Genetics<br/> 
+|<!-- --> | <!-- --> |
+| --- | --- | 
+|**Email** | ruiborges23(at)gmail.com |
+| **Address** | Institute of Population Genetics |
+
+
+<br/> 
                Vetmeduni Vienna <br/>
                Veterinärplatz 1, 1210 Vienna <br/>
                Austria |
