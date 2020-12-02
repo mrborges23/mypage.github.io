@@ -12,4 +12,4 @@
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
 * [Tutorial 2](tutorial_2.md) Phylogenetic inference with maximum likelihood and Bayesian methods <br/>
 * Tutorial 3 Testing the molecular clock hypothesis <br/>
-* Tutorial 4 Detecting selection in molecular sequences
+*  [Tutorial 4](tutorial_4.md) Detecting selection in molecular sequences
