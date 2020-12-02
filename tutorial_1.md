@@ -1,5 +1,5 @@
 ## Tutorial 1
-**Selecting models of nucleotide sequence evolution**
+## Selecting models of nucleotide sequence evolution
 
 In this tutorial, we will determine the best fitting model of a set of mitochondrial sequences taken from Brown, Prager, Wang, and Wilson (1982). The study is entitled *Mitochondrial DNA sequences of primates: tempo and mode of evolution* and was published in the *Journal of Molecular Evolution* 18 (4): 225-239. 
 
