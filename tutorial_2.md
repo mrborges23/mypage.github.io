@@ -7,7 +7,7 @@ In this exercise, we want to determine if there is evidence that the victim (who
 
 Sequence alignment: [&#8600;HIV_env_gp120.fas](/assets/lectures/HIV_env_gp120.fas)
 
-We will be performing phylogenetic inference using the [NGPhylogeny webserver](https://ngphylogeny.fr/), which is dedicated to reconstructing and analyzing phylogenetic relationships between molecular sequences. It included the software used for maximum likelihood (**PhyML**) and Bayesian (**MrBayes**) phylogenetic inference.
+We will be performing phylogenetic inference using the [NGPhylogeny](https://ngphylogeny.fr/) webserver, which is dedicated to reconstructing and analyzing phylogenetic relationships between molecular sequences. It included the software used for maximum likelihood (**PhyML**) and Bayesian (**MrBayes**) phylogenetic inference.
 
 References for these methods:
 * Guindon, Dufayard, Lefort, Anisimova, Hordijk, and Gascuel *New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0* Systematic Biology, 59:307–321
@@ -16,7 +16,7 @@ References for these methods:
 
 **Maximum likelihood tree**
 
-1. In the [NGPhylogeny webserver](https://ngphylogeny.fr/) go to the `Tools` bar and select the `PhyML` method of tree inference.
+1. In the [NGPhylogeny](https://ngphylogeny.fr/) webserver go to the `Tools` bar and select the `PhyML` method of tree inference.
 
 2. Upload the sequence alignment in `alignment file` and set `Data type` to `Nucleic acids`.
 

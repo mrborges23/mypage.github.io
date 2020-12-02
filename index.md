@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://i1.rgstatic.net/ii/profile.image/591035822534666-1517925329445_Q512/Rui_Borges4.jpg)
+![](https://i1.rgstatic.net/ii/profile.image/591035822534666-1517925329445_Q512/Rui_Borges4.jpg =x20)
 
 My name is Rui Borges and I am an evolutionary biologist. I am a Postdoctoral Researcher co-advised by Dr. Carolin Kosiol in the Institute of Population Genetics at Vetmeduni Vienna. 
 

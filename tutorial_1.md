@@ -5,7 +5,7 @@ In this tutorial, we will determine the best fitting model of a set of mitochond
 
 Sequence alignment: [&#8600;brown.fas](/assets/lectures/brown.fas)
 
-We will use the [IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/), and we will have to run it several times in order to obtain the log-likelihood for the tested models of evolution. We will be running the primate mitochondrial sequences with the JC, K2P, F81, TN93, HKY85, and GTR models. 
+We will use the [IQ-Tree](http://iqtree.cibiv.univie.ac.at/) webserver, and we will have to run it several times in order to obtain the log-likelihood for the tested models of evolution. We will be running the primate mitochondrial sequences with the JC, K2P, F81, TN93, HKY85, and GTR models. 
 
 1. Go to your browser and open the [IQ-Tree webserver](http://iqtree.cibiv.univie.ac.at/).
 
