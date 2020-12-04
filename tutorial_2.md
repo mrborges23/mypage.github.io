@@ -1,5 +1,5 @@
 ## Tutorial 2
-**Maximum likelihood and Bayesian phylogenetic inference**
+## Maximum likelihood and Bayesian phylogenetic inference
 
 In this tutorial, we will perform phylogenetic analysis with the [Metzker et al. (2002)](https://www.pnas.org/content/99/22/14292) dataset, which includes HIV env/gp120 sequences. This data was used as evidence in a Louisiana gastroenterologist's trial accused of deliberately infecting someone (the victim) with HIV-infected blood from one of the gastroenterologist's patients. The jury was charged with addressing whether it was beyond a reasonable doubt that the victim was infected as a result of the gastroenterologist's actions.
 

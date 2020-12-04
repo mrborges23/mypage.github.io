@@ -5,11 +5,11 @@
 * [Lecture 2](/assets/lectures/Lecture_2.pdf) Selecting models of nucleotide sequence evolution
 * [Lecture 3](/assets/lectures/Lecture_3.pdf)  Phylogenetic inference using maximum likelihood
 * [Lecture 4](/assets/lectures/Lecture_4.pdf) Bayesian phylogenetic inference
-* Lecture 5 Molecular clock and estimation of species divergence times
+* Lecture 5 The mplecular clock 
 * Lecture 6 Natural selection and adaptation of molecular sequences
 
 ### Tutorials
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
 * [Tutorial 2](tutorial_2.md) Phylogenetic inference with maximum likelihood and Bayesian methods <br/>
-* Tutorial 3 Testing the molecular clock hypothesis <br/>
-*  [Tutorial 4](tutorial_4.md) Detecting selection in molecular sequences
+* [Tutorial 3](tutorial_3.md) Testing the molecular clock hypothesis <br/>
+* [Tutorial 4](tutorial_4.md) Detecting selection in molecular sequences
