@@ -1,12 +1,12 @@
 ## Tutorial 4
-## Detecting selection in molecular sequences
+## Testing the molecular clock hypothesis
 
-In this tutorial, we will investigate the mammalian C7 protein, which is part of the complement immunity pathway, for signatures of positive selection. The data was taken from Kosiol, Vinar, da Fonseca, Hubisz, Bustamante, Nielsen, and Siepel (2008) entitled *Patterns of positive selection in six mammalian genomes*. To place the problem in context, you will test the mammalian C7 protein for positive selection by comparing the nearly neutral model M7 against the selection model M8.
+
 
 Sequence alignment: [&#8600;C7.fas](/assets/lectures/C7.fas)<br/>
 Phylogeny: [&#8600;C7.tree](/assets/lectures/C7.tree)
 
-We will use **codeml**, a part of the **PAML** package, through the [Phylemon 2](http://phylemon.bioinfo.cipf.es/?email=anonymous)  webserver. **codeml** includes several models of codon evolution; in this tutorial, we will be implementing site models to test for selection.
+We will use **codeml**, a part of the **PAML** package, through the [Phylemon 2](http://phylemon.bioinfo.cipf.es/?email=anonymous)  webserver. **codeml** includes several models of codon evolution; in this tutorial, we will be implementing site models to test the molecular clock hypothesis and estimate divergence times.
 
 * Yang *PAML 4: phylogenetic analysis by maximum likelihood* Molecular Biology and Evolution 24 p1586-91 
 
@@ -25,3 +25,6 @@ We will use **codeml**, a part of the **PAML** package, through the [Phylemon 2]
 7. The estimated model parameter of the M7 and M8 models can be found near the `Parameters in M7` or `Parameters in M8` lines, respectively. These parameters defined the beta distribution of omega, including the proportion of sites under position selection.
 
 Is there any evidence for positive selection in the mammalian C7 proteins? If this is the case, what is the proportion of positively selected sites and the dN/dS ratio intensity?
+
+
+**Estimating divergence times with the molecular clock**
