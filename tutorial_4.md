@@ -30,4 +30,4 @@ stat_models_B_course_spring_07/distributions/chisqtab.pdf) distribution with deg
 
 Is there any evidence that the mammalian mitochondrial genes evolve according to the molecular clock? 
 
-According to the clock model, what is the substitution rate is per MY? What is the age of the Carnivora divergence? Can you trust these values? Why? 
+According to the clock model, what is the amino acid substitution rate is per MY? What is the age of the Carnivora divergence? Can you trust these values? Why? 
