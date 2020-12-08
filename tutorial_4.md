@@ -1,7 +1,7 @@
 ## Tutorial 4
 ## Testing the molecular clock hypothesis
 
-In this tutorial, we will test the molecular clock hypothesis in a set of concatenated mitochondrial proteins. To place the problem in context, you will test the clock behavior of these sequences by comparing the clock model against the no-clock model.
+In this tutorial, we will test the molecular clock hypothesis in a set of concatenated mitochondrial proteins. To place the problem in context, you will test the clock behavior of these sequences by comparing the clock model against the non-clock model.
 
 Sequence alignment: [&#8600;cmp.phy](/assets/lectures/cmp.phy)<br/>
 Unrooted phylogeny: [&#8600;cmp.tree](/assets/lectures/cmp.tree)
@@ -19,7 +19,7 @@ To test the clock model, we have to input a rooted tree. Considering the evoluti
 
 4. Set the `Sequence type` to aminoacids. In the `Model selection` section, set `Model` to `2: Empirical` (you can find this option within the list of amino acid models). When this option is selected, a new option `aaRatefile` appears in the `Sequence related parameters` field. Select the option `mtmam.dat`, which corresponds to the MtMam empirical amino acid model of evolution.
 
-5. In the option `Clock` (inside the `Other parameters` field) choose either `0: No clock` or `1: Clock`. You will have to run `codeml` twice to obtain the likelihood of each model. Do not forget that the calibrated rooted tree should be used for estimating the likelihood of the clock hypothesis, while its unrooted version should be used with the no-clock model.
+5. In the option `Clock` (inside the `Other parameters` field) choose either `0: No clock` or `1: Clock`. You will have to run `codeml` twice to obtain the likelihood of each model. Do not forget that the calibrated rooted tree should be used for estimating the likelihood of the clock hypothesis, while its unrooted version should be used with the non-clock model.
 
 6. Give your job a name and press `Run`. On the lateral menu, you can check your analyses' progress; they are ready when your job name turns green. 
 

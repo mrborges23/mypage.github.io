@@ -6,7 +6,7 @@
 * [Lecture 3](/assets/lectures/Lecture_3.pdf) Phylogenetic inference using maximum likelihood
 * [Lecture 4](/assets/lectures/Lecture_4.pdf) Bayesian phylogenetic inference
 * [Lecture 5](/assets/lectures/Lecture_5.pdf) Models of amino acid and codon substitution 
-* Lecture 6 Molecular clocks
+* [Lecture 6](/assets/lectures/Lecture_6.pdf) Molecular clocks
 
 ### Tutorials
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
