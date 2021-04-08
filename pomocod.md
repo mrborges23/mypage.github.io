@@ -33,14 +33,14 @@ Selection maps have impactful applications in other fields. They permit developi
 
 ### Funding agency
 
-* Austrian Science Fund: Project number [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
+Austrian Science Fund: Project number [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
 
-<img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="45"/>
+<img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="40"/>
 
 
 
 ### Research place
 
-* Vetmeduni Vienna, Institute of Population Genetics
+Vetmeduni Vienna, [Institute of Population Genetics](https://www.vetmeduni.ac.at/en/population-genetics/)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="40"/>
