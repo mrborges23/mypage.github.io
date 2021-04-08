@@ -2,7 +2,9 @@
 
 A major goal in evolutionary biology is to understand the forces that operate in the genomic sequences and are responsible for the adaptation of species to different environments. Codon models are one of the main tools used to infer selection on protein-coding genes. These have been popularized in comparative genomic studies by their extensive use in genome-wide scans of diversifying selection. However, models of codon evolution have significant limitations that are increasingly being recognized. The main one being that current codon models make simplistic assumptions, such as ignoring species demography and nucleotide usage bias. 
 
-This project offers a new polymorphism-aware model, **PoMo-cod**, to detect signatures of natural selection acting on protein-coding sequences. **PoMo-cod** will address codon evolution in a unique way by properly reconciling the neutral and adaptive population-level processes by which coding sequences evolve. More importantly, **PoMo-cod** will allow us to tell apart the sole action of natural selection from known confounding forces (e.g., fluctuating demography and GC-biased gene conversion), ultimately producing more accurate genome-wide maps of diversifying evolving genes. Selection maps have impactful applications in other fields. They permit developing species-specific conservation strategies to mitigate the anthropogenic action on biodiversity or characterize the genome functionally, which has direct implications for medical research.
+This project offers a new polymorphism-aware model, **PoMo-cod**, to detect signatures of natural selection acting on protein-coding sequences. **PoMo-cod** will address codon evolution in a unique way by properly reconciling the neutral and adaptive population-level processes by which coding sequences evolve. More importantly, **PoMo-cod** will allow us to tell apart the sole action of natural selection from known confounding forces (e.g., fluctuating demography and GC-biased gene conversion), ultimately producing more accurate genome-wide maps of diversifying evolving genes. 
+
+Selection maps have impactful applications in other fields. They permit developing species-specific conservation strategies to mitigate the anthropogenic action on biodiversity or characterize the genome functionally, which has direct implications for medical research.
 
 
 
@@ -28,9 +30,9 @@ This project offers a new polymorphism-aware model, **PoMo-cod**, to detect sign
 ### Funding agency
 
 * Austrian Science Fund (FWF): [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wwtf.at%2Fabout%2Fguidlines%2F&psig=AOvVaw0nbEobqW1ZZ5OjSba40GZp&ust=1618007079645000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODcw5zY7-8CFQAAAAAdAAAAABAD" alt="drawing" height="25"/>
+<img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="25"/>
 
 ### Research place
 
 * Vetmeduni Vienna, Institue of Population Genetics
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vetmeduni.ac.at%2Ffileadmin%2Fv%2Fz%2Fveranstaltungen%2F2019%2F20190131_Symposium_on_Comparative_Medicine_FINAL.pdf&psig=AOvVaw1KIzB6jMp5Z-Oeb9HI0Up7&ust=1618006986962000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDslvDX7-8CFQAAAAAdAAAAABAS" alt="drawing" height="20"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="20"/>
