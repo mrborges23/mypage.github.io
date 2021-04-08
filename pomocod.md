@@ -14,11 +14,6 @@ Selection maps have impactful applications in other fields. They permit developi
 * Rui Borges (Project Leader)
 * Soon a Ph.D. student!
 
-### Collaborators
-
-* [Carolin Kosiol](https://risweb.st-andrews.ac.uk/portal/en/persons/carolin-kosiol(c9f40ab1-9f6d-4739-b827-f572db24bbd5).html) (University of St Andrews)
-* [Bastien Boussau](https://lbbe.univ-lyon1.fr/-Boussau-Bastien-.html?lang=fr) (Université de Lyon)
-* [Sebastian Höhna](https://hoehnalab.github.io//) (Ludwig-Maximilians-Universität München)
 
 ### Milestones
 
@@ -27,14 +22,25 @@ Selection maps have impactful applications in other fields. They permit developi
 | 08.03.2021   | PoMo-cod was accepted for funding!  |
 
 
+
+### Collaborators
+
+* [Carolin Kosiol](https://risweb.st-andrews.ac.uk/portal/en/persons/carolin-kosiol(c9f40ab1-9f6d-4739-b827-f572db24bbd5).html) (University of St Andrews)
+* [Bastien Boussau](https://lbbe.univ-lyon1.fr/-Boussau-Bastien-.html?lang=fr) (Université de Lyon)
+* [Sebastian Höhna](https://hoehnalab.github.io//) (Ludwig-Maximilians-Universität München)
+
+
+
 ### Funding agency
 
-* Austrian Science Fund (FWF): [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
+* Austrian Science Fund: Project number [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
 
 <img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="45"/>
 
+
+
 ### Research place
 
-* Vetmeduni Vienna, Institue of Population Genetics
+* Vetmeduni Vienna, Institute of Population Genetics
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="40"/>
