@@ -30,9 +30,11 @@ Selection maps have impactful applications in other fields. They permit developi
 ### Funding agency
 
 * Austrian Science Fund (FWF): [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
+
 <img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="25"/>
 
 ### Research place
 
 * Vetmeduni Vienna, Institue of Population Genetics
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="20"/>
