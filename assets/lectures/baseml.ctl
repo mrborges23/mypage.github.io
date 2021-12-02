@@ -1,13 +1,13 @@
       seqfile = brown.fas 
      treefile = tree.nwk
 
-      outfile = brown.k80.txt       * main result file
+      outfile = brown_JC69.txt       * main result file
         noisy = 1   * 0,1,2,3: how much rubbish on the screen
       verbose = 1   * 1: detailed output, 0: concise output
       runmode = 0   * 0: user tree;  1: semi-automatic;  2: automatic
                     * 3: StepwiseAddition; (4,5):PerturbationNNI 
 
-        model = 1   * 0:JC69, 1:K80, 2:F81, 3:F84, 4:HKY85
+        model = 0   * 0:JC69, 1:K80, 2:F81, 3:F84, 4:HKY85
                     * 5:T92, 6:TN93, 7:REV, 8:UNREST, 9:REVu; 10:UNRESTu
 
         Mgene = 0   * 0:rates, 1:separate; 2:diff pi, 3:diff kapa, 4:all diff

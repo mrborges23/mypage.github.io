@@ -5,7 +5,7 @@ In this tutorial, we will determine the best fitting model of a set of mitochond
 
 * Sequence alignment: [&#8600;brown.fas](/assets/lectures/brown.fas)
 * Phylogeny: [&#8600;brown.nwk](/assets/lectures/brown.nwk)
-* Control file: [&#8600;baseml.ctl](/assets/lectures/baseml.fas)
+* Control file: [&#8600;baseml.ctl](/assets/lectures/baseml.ctl)
 
 We will use `BASEML` (part of the `PAML` package by Ziheng Yang) because it requires a good understanding of the procedure involved in hypotheses testing. Additionally, this tutorial introduces you to a general procedure that is used in the `PAML` package to test many other evolutionary hypotheses in a similar fashion.
 
