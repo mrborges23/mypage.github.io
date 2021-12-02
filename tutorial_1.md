@@ -3,9 +3,9 @@
 
 In this tutorial, we will determine the best fitting model of a set of mitochondrial sequences taken from Brown, Prager, Wang, and Wilson (1982). The study is entitled *Mitochondrial DNA sequences of primates: tempo and mode of evolution* and was published in the *Journal of Molecular Evolution* 18 (4): 225-239. 
 
-Sequence alignment: [&#8600;brown.fas](/assets/lectures/brown.fas)
-Phylogeny:
-Control file: 
+* Sequence alignment: [&#8600;brown.fas](/assets/lectures/brown.fas)
+* Phylogeny: [&#8600;brown.nwk](/assets/lectures/brown.nwk)
+* Control file: [&#8600;baseml.ctl](/assets/lectures/baseml.fas)
 
 We will use `BASEML` (part of the `PAML` package by Ziheng Yang) because it requires a good understanding of the procedure involved in hypotheses testing. Additionally, this tutorial introduces you to a general procedure that is used in the `PAML` package to test many other evolutionary hypotheses in a similar fashion.
 
