@@ -4,7 +4,7 @@
 
 In this assignment, you will determine the best fitting model of evolution for the multiple sequence alignment assigned to you by employing a hierarchical likelihood ratio test (hLRT).
 
-1. Test the following models JC, K80, F81, HKY, and GTR, and indicate the best fitting model. Please provide a table including the model likelihoods, number of parameters, model comparisons and corresponding degrees of freedom, the resulting LRT values, and critical value that you use to assess statistical significance. Perform the hLRT using a significance level of 0.05.
+1. Test the following models JC, K80, F81, HKY, and GTR, and indicate the best fitting model. Please provide a table including the model likelihoods, number of parameters, model comparisons and corresponding degrees of freedom, the resulting LRT values, and critical values that you used to assess statistical significance. Perform the hLRT using a significance level of 0.05.
 
 2. Based on the best fitting model obtained previously, do your sequences have a heterogeneous base composition? Is one exchangeability rate enough to describe the evolution of your sequences? Justify your answers.
 
@@ -13,4 +13,4 @@ In this assignment, you will determine the best fitting model of evolution for t
 Some notes:
 * Partial grading will be given to answers that, despite being incorrect, show a good understanding of phylogenetic concepts and technical procedures. Thus, do not forget to justify all your answers and show the steps leading you to the final solution.
 * Do not submit any output files that you will obtain by running the required software. Instead, validate your answers by summarizing the information contained in these files in the form of tables or plots. Translating complex information into sentences, tables, or plots is an important skill that will be evaluated in your answers.
-* Every assignment should be appropriately identified using the following name: `RB_AssignmentNumber_YourStudentNumber`. Upload each assignment as an independent PDF file into the GCA cloud.
+* Every assignment should be appropriately identified using the following name: `RB_AssignmentNumber_YourStudentNumber`. Upload each assignment as an independent PDF file into my vetcloud (link sent by email).
