@@ -5,6 +5,7 @@ In this tutorial, we will investigate the mammalian C7 protein, which is part of
 
 Sequence alignment: [&#8600;C7.fas](/assets/lectures/C7.fas)<br/>
 Phylogeny: [&#8600;C7.tree](/assets/lectures/C7.tree)
+Control file: [&#8600;codeml.ctl](/assets/lectures/codeml.ctl)
 
 We will use **codeml**, a part of the **PAML** package. **codeml** includes several models of codon and protein evolution.
 
