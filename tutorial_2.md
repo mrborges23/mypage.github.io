@@ -5,7 +5,7 @@ In this tutorial, we will perform phylogenetic analysis with the [Metzker et al.
 
 In this exercise, we want to determine if there is evidence that the victim (whose sequences all begin with a V) was directly infected by blood taken from the patient (whose sequences all begin with a P). Therefore, the phylogenetic problem is to establish whether the virus samples in the victim and the patient were closely related. HIV-infected individuals from the local metropolitan area (tagged as LA) were also included as controls. Two more divergent reference sequences were also added: `M62320_HIVU455` and `K03454_HIVELI`. Notice that the sequences used in this tutorial are only a small subset (30 sequences) of the evidence they considered when trying to answer this question.
 
-Sequence alignment: [&#8600;HIV_env_gp120.fas](/assets/lectures/HIV_env_gp120.nxs)
+Sequence alignment: [&#8600;HIV_env_gp120.nxs](/assets/lectures/HIV_env_gp120.nxs)
 
 We will be performing phylogenetic inference using the **MrBayes**, which is a software dedicated to reconstructing phylogenetic relationships (among other analyses) between molecular sequences using Bayesian inference. Reference to this method: Huelsenbeck and Ronquist *MRBAYES: Bayesian inference of phylogenetic trees* Bioinformatics, 17:754-755.
 
