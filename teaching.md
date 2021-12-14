@@ -12,11 +12,11 @@
 ### Tutorials
 * [Tutorial 1](tutorial_1.md) Selecting models of nucleotide sequence evolution <br/>
 * [Tutorial 2](tutorial_2.md) Phylogenetic inference with Bayesian methods <br/>
-* [Tutorial 3](tutorial_3.md) Detecting positive selection in molecular sequences 
-* Tutorial 4  Testing the molecular clock hypothesis<br/>
+* [Tutorial 3](tutorial_3.md) Detecting positive selection in molecular sequences <br/>
+* Tutorial 4 Testing the molecular clock hypothesis
 
 ### Assigments
 * [Assignment 1](assignment_1.md) Fitting models of nucleotide sequence evolution <br/>
 * [Assignment 2](assignment_2.md) Infering Bayesian trees <br/>
-* Assignment 3 Testing the molecular clock hypothesis and molecular dating <br/>
-* Assignment 4 Detecting positive selection 
+* [Assignment 3](assignment_3.md) Detecting positive selection <br/>
+* Assignment 4 Testing the molecular clock hypothesis and molecular dating 
