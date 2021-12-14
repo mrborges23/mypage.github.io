@@ -1,5 +1,3 @@
-
-
 ## Tutorial 4
 ## Testing the molecular clock hypothesis
 
