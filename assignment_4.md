@@ -1,18 +1,18 @@
-## Assignment 2
-## Inferring Bayesian trees
+## Assignment 4
+## Testing the molecular clock hypothesis
 
+In this assignment, you will be determining whether your sequences follow the molecular clock hypothesis. 
+You should use the Bayesian phylogenetic tree obtained in the assignment 2; you can delete the branch lengths by opening this tree in Seaview and saving it as a cladogram.
 
-In this assignment, you will infer the Bayesian tree for your sequences.
+For the global clock, add a calibration point at 6.4 mya for the human-chimp node; or 8.6 mya for the human-gorilla node if your alignment lacks chimp.
 
-1. You will have to select one of the sequences in your multiple sequence alignment to serve as an outgroup for the Bayesian tree inference. Indicate and explain your choice.
+1. Use amino acid sequences for this task, and do not forget to use an appropriate empirical amino acid model. By an appropriate model, I do not mean to perform a hierarchical LRT; all I need is a biological justification for the amino acid model used.
 
-2. Set the model of evolution that you have obtained in the last task into MrBayes. Justify your options for the `nst` and `rates`. Remember that you obtain more information about the available models and rates by typig `help lset` on the MrBayes terminal. Run your MCMC by setting two runs and 100 000 generations. Use a sample frequency `samplefreq` that will allow you to sample 1000 generations, and to summarise the runs with `sump` and `sumt`, set a `burnin` that discards 20% of the initial samples. Justify your choices for the `samplefreq` and `burnin`.
+2. Explain your strategy to obtain a rooted and unrooted version of your Bayesian tree. Provide these trees in Newick format in the answer sheet.
 
-2. We now assess convergence. Analyze your MCMC `.run1.p` and `.run2.p` output files using Tracer. We will focus only on two parameters: the base composition of A and the exchangeability AC. According to their trace plots, are the two runs reaching a plateau, and are the two runs converging to the same regions? Complement your visual analyses of the trace plots with the ESS value: is it acceptable? Justify. According to your convergence analysis, do you think you need to run your MCMC for an additional number of generations, or the current samples are enough to summarize the posterior? 
+3. Determine the age of the great apes emergence and the amino acid substitution rate per million years under the global clock hypothesis.
 
-3. We had discarded 20% of the samples when we summarized the model parameters. Based again on the trace plots of the base composition of A and the exchangeability AC, do you think that a 20% burn-in was an appropriate choice or too conservative/relaxed? Justify your answer.
-
-4. What is the posterior clade probability of the great ape's clade? Is it well or poorly supported? Justify your answer by plotting the Bayesian tree with the respective support values. Indicate clearly which support values you are referring to.
+4. Considering the results of the LRT test, can this marker (i.e., your gene) be used to molecular dating analyses? Justify your answer.
 
 Some notes:
 * Partial grading will be given to answers that, despite being incorrect, show a good understanding of phylogenetic concepts and technical procedures. Thus, do not forget to justify all your answers and show the steps leading you to the final solution.

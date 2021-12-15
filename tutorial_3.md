@@ -3,9 +3,9 @@
 
 In this tutorial, we will investigate the mammalian C7 protein, which is part of the complement immunity pathway, for signatures of positive selection. The data was taken from Kosiol, Vinar, da Fonseca, Hubisz, Bustamante, Nielsen, and Siepel (2008) entitled *Patterns of positive selection in six mammalian genomes*. To place the problem in context, you will test the mammalian C7 protein for positive selection by comparing the nearly neutral model M7 against the selection model M8.
 
-Sequence alignment: [&#8600;C7.fas](/assets/lectures/C7.fas)<br/>
-Phylogeny: [&#8600;C7.tree](/assets/lectures/C7.tree)
-Control file: [&#8600;codeml.ctl](/assets/lectures/codeml.ctl)
+* Sequence alignment: [&#8600;C7.fas](/assets/lectures/C7.fas)
+* Phylogeny: [&#8600;C7.tree](/assets/lectures/C7.tree)
+* Control file: [&#8600;codeml.ctl](/assets/lectures/codeml1.ctl)
 
 We will use **codeml**, a part of the **PAML** package. **codeml** includes several models of codon and protein evolution.
 
@@ -38,5 +38,6 @@ These models can be set using the `NSsites` line.
 
 In the option `NS sites`, choose either `7: Beta` or `8: Beta and w`. You will have to run `codeml` twice to obtain the likelihood of each model. Alternatively, one could test for selection by using the pair `1: Neutral Model` and `2: Selection Model`. To run the `CODEML`  program, type `./codeml` at the command line. 
 
-Is there any evidence for positive selection in the mammalian C7 proteins? If this is the case, what is the proportion of positively selected sites and the dN/dS ratio intensity?
+Using `CODEML` you will need to calculate for yourself the difference in the likelihood statistic between the two models, which is twice the difference in log likelihoods as estimated under the two models, i.e., LRT=2(lnL1-lnL0). Significant likelihood ratios are obtained using a chi-square distribution where the degrees of freedom are the difference in the number of parameters between the two models. A chi-square table can be found [here](https://people.smp.uq.edu.au/YoniNazarathy/stat_models_B_course_spring_07/distributions/chisqtab.pdf).
 
+Is there any evidence for positive selection in the mammalian C7 proteins? If this is the case, what is the proportion of positively selected sites and the dN/dS ratio intensity?
