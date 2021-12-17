@@ -27,7 +27,7 @@ clock = 0 * 0: no clock, unrooted tree, 1: clock, rooted tree
 
 To test the molecular clock hypothesis, we need a rooted and unrooted tree. Note that an unrooted tree is provided `((((Human,Gorilla),Orangutan),Monkey),(Horse,(Whale,Cow)),(Dog,Bear));`. 
 
-To test the clock model, we have to input a rooted tree. Considering the evolution of mammals, how should we root the previous phylogeny? In addition to rooting the tree, we will perform time divergence estimation by calibrating the molecular clock. We will use a calibration point at 8.60 million years (MY) for the human–gorilla common ancestor, which corresponds to their median divergence (taken from [TimeTree](http://www.timetree.org/)). Because `codeml` only accepts calibration dates within the range of 0.00001-10, we will set the date at 0.0086 (i.e., in units of 10^3 MY). The calibration can be done by placing `'@0.0086'` at the relevant node in the inputted newick tree. Note that multiple calibration points can be specified in this way.
+To test the clock model, we have to input a rooted tree. Considering the evolution of mammals, how should we root the previous phylogeny? 
 
 We will be using an empirical model of evolution. First make sure `seqtype` is set for amino acids, then set an empirical amino acid model within `model` (you can find this option within the list of amino acid models). Finally, choose an appropriate empirical matrix in `aaRatefile`. Which rate matrix shoud we choose for these mitochondrial proteins?
 
@@ -35,4 +35,4 @@ Using `CODEML` you will need to calculate for yourself the difference in the lik
 
 Is there any evidence that the mammalian mitochondrial genes evolve according to the molecular clock? 
 
-According to the clock model, what is the amino acid substitution rate is per MY? What is the age of the Carnivora divergence? Can you trust these values? Why? 
+According to the clock model, what is the amino acid substitution rate is per MY? What is the age of the Carnivora divergence? Can you trust these values? Why? To answer this question, use a calibration point at 8.60 million years (MY) for the human–gorilla common ancestor, which corresponds to their median divergence (taken from [TimeTree](http://www.timetree.org/)). 
