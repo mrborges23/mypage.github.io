@@ -22,5 +22,5 @@
 
 ## Introductory Course for Ph.D. students: Phylogenetics 
 
-* [Slides](/assets/lectures/Phylogenetics.pdf) 
+* [Slides](/assets/lectures/phylogenetics.pdf) 
 * [HIV envelope gp120 alignment](/assets/lectures/HIV_env_gp120.nxs)
