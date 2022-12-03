@@ -19,7 +19,7 @@
 * [Assignment 2](assignment_2.md) Infering Bayesian trees <br/>
 * [Assignment 3](assignment_3.md) Detecting positive selection <br/>
 * [Assignment 4](assignment_4.md) Testing the molecular clock hypothesis 
-* [Assignment 4](assignment_5.md) Testing the molecular clock hypothesis 
+* [Assignment 5](assignment_5.md) Final questions
 
 ## Introductory Course for Ph.D. students: Phylogenetics 
 
