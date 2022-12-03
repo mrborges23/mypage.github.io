@@ -1,6 +1,6 @@
 ## Positions
 
-*	**Group Leader** and **Associate Faculty** of the Vienna Graduate School of Population Genetics <br/>
+* **Group Leader** and **Associate Faculty** of the Vienna Graduate School of Population Genetics <br/>
 Institute of Population Genetics, Vetmeduni Vienna, Austria <br/>
 Jun 2021 - present <br/>
 
