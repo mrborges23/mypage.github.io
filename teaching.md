@@ -29,5 +29,5 @@
 
 ## Introductory Course for Ph.D. students: Introduction to Machine Learning
 
-* Slides
+* [Slides](/assets/lectures/ml_intro_course_rui_borges.pdf) 
 * Practical: Deep learning and Decision trees
