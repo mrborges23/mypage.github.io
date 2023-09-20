@@ -25,3 +25,9 @@
 
 * [Slides](/assets/lectures/phylogenetics.pdf) 
 * [HIV envelope gp120 alignment](/assets/lectures/HIV_env_gp120.nxs)
+
+
+## Introductory Course for Ph.D. students: Introduction to Machine Learning
+
+* Slides
+* Practical: Deep learning and Decision trees
