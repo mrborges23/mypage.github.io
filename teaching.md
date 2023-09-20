@@ -21,13 +21,14 @@
 * [Assignment 4](assignment_4.md) Testing the molecular clock hypothesis 
 * [Assignment 5](assignment_5.md) Final questions
 
-## Introductory Course for Ph.D. students: Phylogenetics 
+## Introductory Course for Ph.D. students
 
+###Phylogenetics 
 * [Slides](/assets/lectures/phylogenetics.pdf) 
-* [HIV envelope gp120 alignment](/assets/lectures/HIV_env_gp120.nxs)
+* [Tutorial](/assets/lectures/HIV_env_gp120.nxs): HIV envelope gp120 alignment
 
+## Introductory Course for Ph.D. students
 
-## Introductory Course for Ph.D. students: Introduction to Machine Learning
-
+###Introduction to Machine Learning
 * [Slides](/assets/lectures/ml_intro_course_rui_borges.pdf) 
-* Practical: Deep learning and Decision trees
+* [Tutorial](https://github.com/diogo-s-ribeiro/Code_IC): Classifing sweeps in E&R experiments using deep learning and decision trees
