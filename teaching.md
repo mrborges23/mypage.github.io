@@ -27,8 +27,6 @@
 * [Lecture slides](/assets/lectures/phylogenetics.pdf) 
 * [Tutorial](/assets/lectures/HIV_env_gp120.nxs): HIV envelope gp120 alignment
 
-## Introductory Course for Ph.D. students
-
 ### Introduction to Machine Learning
 * [Lecture slides](/assets/lectures/ml_intro_course_rui_borges.pdf) 
 * [Tutorial](https://github.com/diogo-s-ribeiro/Code_IC): Classifing sweeps in E&R experiments using deep learning and decision trees
