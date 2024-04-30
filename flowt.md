@@ -7,13 +7,14 @@
 ### Team
 
 * Rui Borges (Project Leader)
-* Diogo Ribeiro
-
+* Diogo Ribeiro (PhD student)
+* Soon a new PhD student
+* 
 ### Milestones
 
 | Date  | Event  |
 |---|---|
-| 08.03.2021   | PoMo-cod was accepted for funding!  |
+|    |   |
 
 
 
@@ -26,7 +27,7 @@
 
 ### Funding agency
 
-Austrian Science Fund: Project number [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
+Austrian Science Fund: Project number [P37050](https://www.fwf.ac.at/forschungsradar/10.55776/P37050)
 
 <img src="https://m.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo-color-transparent-var2.gif" alt="drawing" height="40"/>
 
