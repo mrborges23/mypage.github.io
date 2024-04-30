@@ -40,4 +40,4 @@ Austrian Science Fund: Project number [P37050](https://www.fwf.ac.at/forschungsr
 
 Vetmeduni Vienna, [Institute of Population Genetics](https://www.vetmeduni.ac.at/en/population-genetics/)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="37"/>
