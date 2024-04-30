@@ -12,7 +12,7 @@ Selection maps have impactful applications in other fields. They permit developi
 ### Team
 
 * Rui Borges (Project Leader)
-* Soon a Ph.D. student!
+* Ioanna Kotari (PhD student)
 
 
 ### Milestones
