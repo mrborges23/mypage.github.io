@@ -35,8 +35,7 @@ Selection maps have impactful applications in other fields. They permit developi
 
 Austrian Science Fund: Project number [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
 
-<img src="https://www.fwf.ac.at/en/research-radar/10.55776/P34524" alt="drawing" height="40"/>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtEqWVgoHFUFuLA1IAJvk4-msp4ogQmS51dZiL7ik4z8KM5ZsLvSVWayBAB_ktNuCFw&usqp=CAU" alt="drawing" height="37"/>
 
 
 ### Research place
