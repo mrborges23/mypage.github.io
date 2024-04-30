@@ -17,3 +17,7 @@ navigation:
     url: software
   - title: PoMo-cod
     url: pomocod
+   - title: FlowT
+    url: flowt 
+  - title: Positions
+    url: positions
