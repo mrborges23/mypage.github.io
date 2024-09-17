@@ -15,9 +15,7 @@ navigation:
     url: teaching
   - title: Software
     url: software
-  - title: PoMo-cod
-    url: pomocod
   - title: Projects
-    url: flowt
+    url: projects
   - title: Positions
     url: positions
