@@ -1,4 +1,11 @@
-## Inferring gene flow from phylogenies with ubiquitous genomes
+## Projects
+
+
+* PoMo-cod: a polymorphism-aware phylogenetic codon model
+  Austrian Science Fund (FWF): [P34524-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/53000)
+* Inferring gene flow from phylogenies with ubiquitous genomes
+  Austrian Science Fund: Project number [P37050](https://www.fwf.ac.at/forschungsradar/10.55776/P37050)
+
 
 It is now recognized that species often diverge while exchanging genetic material. There is plenty of evidence that gene flow has occurred across diverse biological groups and in numerous contexts (e.g., isolation with/after migration or secondary contact). However, the prevalence and impact of gene flow at phylogenetic time scales are less understood. The assessment is important, as it may contain clues on how species diverge and become different over time. Despite the many efforts to model speciation with gene flow, current models are insufficient to assess gene flow along multiple speciation events, particularly at deep time horizons. 
 
