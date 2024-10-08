@@ -11,6 +11,7 @@ I am a lecturer in Statistics at the School of Mathematics and Statistics at the
 Interests:
 * Population genetics
 * Phylogenetics
+* Stochastic processes
 * Bayesian inference
 * Bioinformatics
 
